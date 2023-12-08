@@ -27,8 +27,7 @@ I am confident that I can contribute effectively to your team and help drive you
 <img alt="sass" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/dc1d08a5-2cc6-4064-ab09-472f837b7fcc" width="64"/>
 <img alt="js" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/7755d5f1-a1dc-41c5-bb5b-60f0c587aa15" width="64"/>
 <img alt="ts" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/2468dab5-55be-45f9-ae4e-ddb6d74174f7" width="64"/>
-<img alt="nodejs" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/7100217f-a7ef-4ec4-aa1d-4d30cdf7d946" width="64"/>
-<img alt="aws" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/0951ffb9-6ec6-4043-8893-2e5acf6c1b43" width="64"/>
+<img alt="react" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/717863a3-fa0c-463f-9287-5e78db33c894" width="64"/>
 <br><br>
 
 <img alt="git" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/68c180bf-7ab7-43da-99b9-00ea349bd443" width="64"/>
@@ -100,3 +99,5 @@ I am confident that I can contribute effectively to your team and help drive you
 - Screenshot:
 
 <img width="400" alt="Shelter Screenshot 1" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/287b5ef9-f1ef-4277-a8d6-7d51a08b1700">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
