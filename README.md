@@ -58,6 +58,7 @@ I am confident that I can contribute effectively to your team and help drive you
 
 #### Catalog cards
 
+- Task: catalog of product cards obtained from the API, using React, with pagination by page, routing and data storage in store Redux. Project stack: TS, React, Redux, React-Router.
 - Deploy: [link](https://module-4-react-redux.netlify.app/)
 - Code: [link](https://github.com/Andrei-Kochetov/RSScholl-React-2023-Q4)
 - Screenshot:
