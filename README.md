@@ -4,9 +4,7 @@
 
 ### 👨‍💻 About me
 
-I am a junior Front-end developer with a unique background. 
-
-After dedicating two years to working as a UI/UX designer, I discovered my passion for the technical aspects of web development. Motivated by this realization, I made a deliberate career shift towards Front-end development. 
+I am a junior Front-end developer. 
 
 I am confident that I can contribute effectively to your team and help drive your projects forward.
 
@@ -49,58 +47,15 @@ I am confident that I can contribute effectively to your team and help drive you
 
 ### 💻 My works
 
-#### Plants Store - eCommerce App
+#### OnPlug - eCommerce App
 
 - Task: [link](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application)
-- Deploy: [link](https://illia-sakharau.github.io/eCommerce-Application-PlantsStore/)
-- Code: [link](https://github.com/Illia-Sakharau/eCommerce-Application-PlantsStore)
+- Deploy: [link](https://ecommerce-app-pet-project.netlify.app/)
+- Code: [link](https://github.com/Andrei-Kochetov/eCommerce-App)
 - Screenshot:
 
-<img width="400" alt="Minesweeper Screenshot" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/eb260a4c-639d-4d61-ad7c-1cc18c090c2b">
+<img width="400" alt="Minesweeper Screenshot" src="https://github.com/Andrei-Kochetov/Andrei-Kochetov/assets/118794264/42acfaae-def2-4c9d-ae6a-21a02e8679f6">
 
-
-#### Minesweeper
-- Task: [link](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/minesweeper/README.md)
-- Deploy: [link](https://illia-sakharau.github.io/RSSchool-JSFE2023Q1/minesweeper/)
-- Code: [link](https://github.com/Illia-Sakharau/RSSchool-JSFE2023Q1/tree/minesweeper)
-- Screenshot:
-
-<img width="350" alt="Minesweeper Screenshot" src="https://github.com/Illia-Sakharau/RSSchool-JSFE2023Q1/assets/124388500/d45e8695-2972-4fac-a850-002b870537d8">
-
-
-#### CSS selectors
-- Task: [link](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rs-css.md)
-- Deploy: [link](https://illia-sakharau.github.io/RSSchool-JSFE2023Q1/rss-css-selectors/)
-- Code: [link](https://github.com/Illia-Sakharau/RSSchool-JSFE2023Q1/tree/RSS-CSS-Selectors)
-- Screenshot:
-
-<img width="350" alt="CSS selectors Screenshot" src="https://github.com/Illia-Sakharau/RSSchool-JSFE2023Q1/assets/124388500/20aaed17-208e-4f83-bfd1-2882a9c20fb6">
-
-
-#### Async Race
-- Task: [link](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md)
-- Deploy: [link](https://rolling-scopes-school.github.io/illia-sakharau-JSFE2023Q1/async-race-remouteAPI)
-- Code: [link](https://github.com/Illia-Sakharau/RSSchool-JSFE2023Q1/tree/async-race)
-- Screenshot:
-
-<img width="350" alt="Async Race Screenshot" src="https://github.com/Illia-Sakharau/RSSchool-JSFE2023Q1/assets/124388500/55ec774a-9837-43b7-bdda-bc5a96cf03d6">
-
-#### Virtual Keyboard
-- Task: [link](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/virtual-keyboard/virtual-keyboard-en.md)
-- Deploy: [link](https://illia-sakharau.github.io/virtual-keyboard/)
-- Code: [link](https://github.com/Illia-Sakharau/virtual-keyboard)
-- Screenshot:
-<img width="350" alt="Screenshot Virtual Keyboard" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/4ecd8f05-9fa7-4cba-a0e2-d0b113f34030">
-
-#### Shelter
-- Task: [link](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md)
-- Deploy: [link](https://illia-sakharau.github.io/RSSchool-JSFE2023Q1/shelter/)
-- Code: [link](https://github.com/Illia-Sakharau/RSSchool-JSFE2023Q1/tree/shelter-part3)
-- Screenshot:
-
-<img width="400" alt="Shelter Screenshot 1" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/287b5ef9-f1ef-4277-a8d6-7d51a08b1700">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### 🔥 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Kochetov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
