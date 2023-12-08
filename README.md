@@ -56,6 +56,14 @@ I am confident that I can contribute effectively to your team and help drive you
 
 <img width="400" alt="Minesweeper Screenshot" src="https://github.com/Andrei-Kochetov/Andrei-Kochetov/assets/118794264/42acfaae-def2-4c9d-ae6a-21a02e8679f6">
 
+#### Catalog cards
+
+- Deploy: [link](https://module-4-react-redux.netlify.app/)
+- Code: [link](https://github.com/Andrei-Kochetov/RSScholl-React-2023-Q4)
+- Screenshot:
+
+<img width="400" alt="Minesweeper Screenshot" src="https://github.com/Andrei-Kochetov/Andrei-Kochetov/assets/118794264/bf333d2f-3483-4c24-bfdc-d3ea0859e399">
+
 
 ### 🔥 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Kochetov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
