@@ -18,12 +18,7 @@ I am confident that I can contribute effectively to your team and help drive you
   <a href="mailto:sakharovia0204@gmail.com">
     <img height="32" src="/img/email.png" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/sakharoviliya0204/" target="_blank">
-    <img height="32" src="/img/linkedin.png" alt="LinkedIn"/>
-  </a>
 </div>
-
-	@@ -30,78 +30,89 @@ I am confident that I can contribute effectively to your team and help drive you
 
 ### 🛠️ Technologies that I've used in my job
 
