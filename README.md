@@ -101,3 +101,7 @@ I am confident that I can contribute effectively to your team and help drive you
 <img width="400" alt="Shelter Screenshot 1" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/287b5ef9-f1ef-4277-a8d6-7d51a08b1700">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+### 🔥 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Kochetov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--
