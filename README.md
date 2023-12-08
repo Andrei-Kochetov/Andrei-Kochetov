@@ -12,10 +12,10 @@ I am confident that I can contribute effectively to your team and help drive you
 
 ### 📫 How to reach me
 <div>
-  <a href="https://t.me/IliyaSakharov" target="_blank">
+  <a href="https://t.me/kooochaaa" target="_blank">
     <img height="32" src="/img/telegram.png" alt="Telegram"/>
   </a>
-  <a href="mailto:sakharovia0204@gmail.com">
+  <a href="mailto:andrei.glava03@gmail.com">
     <img height="32" src="/img/email.png" alt="Email"/>
   </a>
 </div>
@@ -28,6 +28,7 @@ I am confident that I can contribute effectively to your team and help drive you
 <img alt="js" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/7755d5f1-a1dc-41c5-bb5b-60f0c587aa15" width="64"/>
 <img alt="ts" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/2468dab5-55be-45f9-ae4e-ddb6d74174f7" width="64"/>
 <img alt="nodejs" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/7100217f-a7ef-4ec4-aa1d-4d30cdf7d946" width="64"/>
+<img alt="aws" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/0951ffb9-6ec6-4043-8893-2e5acf6c1b43" width="64"/>
 <br><br>
 
 <img alt="git" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/68c180bf-7ab7-43da-99b9-00ea349bd443" width="64"/>
@@ -46,12 +47,6 @@ I am confident that I can contribute effectively to your team and help drive you
 
 ---
 
-### 🧑‍🎓 Technologies that I’m currently learning
-
-<img alt="aws" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/0951ffb9-6ec6-4043-8893-2e5acf6c1b43" width="64"/>
-<img alt="react" src="https://github.com/Illia-Sakharau/Illia-Sakharau/assets/124388500/717863a3-fa0c-463f-9287-5e78db33c894" width="64"/>
-
----
 
 ### 💻 My works
 
