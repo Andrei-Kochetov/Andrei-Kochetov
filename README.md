@@ -1,3 +1,15 @@
+# Hi there 🖖
+
+---
+
+### 👨‍💻 About me
+
+I am a junior Front-end developer with a unique background. 
+
+After dedicating two years to working as a UI/UX designer, I discovered my passion for the technical aspects of web development. Motivated by this realization, I made a deliberate career shift towards Front-end development. 
+
+I am confident that I can contribute effectively to your team and help drive your projects forward.
+
 ### 📫 How to reach me
 <div>
   <a href="https://t.me/IliyaSakharov" target="_blank">
